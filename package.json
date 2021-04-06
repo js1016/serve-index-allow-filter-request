@@ -1,7 +1,7 @@
 {
   "name": "serve-index-allow-filter-request",
   "description": "Serve directory listings",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
   "license": "MIT",
   "repository": "expressjs/serve-index",
@@ -26,7 +26,8 @@
     "public/",
     "LICENSE",
     "HISTORY.md",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "engines": {
     "node": ">= 0.8.0"
